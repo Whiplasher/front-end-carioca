@@ -48,13 +48,13 @@ OBSERVAÇÃO:
 * <br>Outros</b> - Em breve mais 4 palestrantes
 
 
-## Site Oficial - Front End Carioca
+## Site Oficial
 
 * [Acompanhe nossa contagem regressiva para o site oficial e o início das inscrições](http://frontendcarioca.com.br/)
 
-## Sugira palestras
+## Sugira Palestras
 
-* [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014);
+* [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014)
 
 <!--
 ## Organizações de apoio
