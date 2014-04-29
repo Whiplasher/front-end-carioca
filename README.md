@@ -4,6 +4,9 @@
 
 ## O Evento
 
-O Front End Carioca está realizando sua primeira edição, e está vindo com muitas novidades para atingir o público profissional de desenvolvimento e de áreas adjacentes. A proposta de evento que temos em mente é de reunir uma galera que gosta do que faz e está a fim de aprender muito mais.
+O Front End Carioca está realizando sua primeira edição, e está vindo com muitas novidades para atingir o público profissional de desenvolvimento e de áreas adjacentes. A proposta de evento que temos em mente é de reunir uma galera que gosta de desenvolvimento web em geral e está a fim de aprender muito mais com nosso meetup.
 
-Nosso objetivo com este evento é fazer com que os palestrantes passem suas experiências profissionais para os participantes do evento, com o intuito de divulgar as novas ferramentas e novidades da web.
+Nosso objetivo principal com a realização deste evento é proporcionar aos participantes, desde o iniciante até o mais experiênte, novos aprendizados, conhecimentos específicos, novidades de ferramentas e tecnologias web que vem avançando com o passar do tempo.
+
+É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de um futuro evento.
+
