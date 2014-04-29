@@ -19,10 +19,17 @@ OBSERVAÇÃO:
 
 * Coffee Break
 
- * Ciclo de palestras
+* Ciclo de palestras
 
- * Mini Cursos
+* Mini Cursos
 
- * Entrevistas / Depoimentos
+* Entrevistas / Depoimentos
 
- * Sorteio de Livros
+* Sorteio de Livros
+
+* Sorteio de Cursos
+
+* Oportunidades de Emprego
+
+* Outros
+ 
