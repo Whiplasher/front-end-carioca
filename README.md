@@ -55,6 +55,10 @@ OBSERVAÇÃO:
 
 * [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014)
 
+### O Local e Data
+
+O evento ja possui um local pré-definido e data definida, a princípio será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
+
 <!--
 ## Organizações de apoio
 
