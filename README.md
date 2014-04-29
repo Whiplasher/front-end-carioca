@@ -45,8 +45,7 @@ OBSERVAÇÃO:
 
 * <b>Davison Martins</b> - Web Developer e Instrutor do Curso iLearn
 
-* <br>Outros</b> - Em breve mais 4 palestrantes
-
+* <b>Outros</b> - Ainda entrarão mais 4
 
 ## Site Oficial
 
