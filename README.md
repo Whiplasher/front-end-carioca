@@ -18,34 +18,49 @@ OBSERVAÇÃO:
 ### O que vai rolar?
 
 * Coffee Break
-
 * Ciclo de palestras
-
 * Mini Cursos
-
 * Entrevistas / Depoimentos
-
 * Sorteio de Livros
-
 * Sorteio de Cursos
-
 * Oportunidades de Emprego
-
 * Outros
 
 
 ## Os Palestrantes
 
-* <b>Guga Alves</b> - Coordenador de Projetos Digitais na empresa Agência Trii
+* <b>Guga Alves</b> - Coordenador de Projetos Agência Trii e Instrutor do Instituto Infnet
 
 * <b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp
  
-* <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
-
 * <b>Felipe Leão</b> - Full Stack Web Developer na empresa Igreja do Recreio
 
-* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
+* <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
 
 * <b>Tarcisio Silva</b> - Gerente de Projetos Prefeitura do Rio de Janeiro
 
+* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
+
 * <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
+
+* <b>Davison Martins</b> - Web Developer e Instrutor do Curso iLearn
+
+* <br>Outros</b> - Em breve mais 4 palestrantes
+
+
+## Site Oficial - Front End Carioca
+
+* [Acompanhe nossa contagem regressiva para o site oficial e o início das inscrições](http://frontendcarioca.com.br/)
+
+## Sugira palestras
+
+* [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014);
+
+<!--
+## Organizações de apoio
+
+* [Organização - Rio.js](http://riojs.org/)
+* [Organização - Sampa.js](http://www.sampajs.com.br/)
+* [Organização - Brazil.JS](http://braziljs.org/)
+* [Organização - Fron in Floripa](http://frontinfloripa.com.br/)
+-->
