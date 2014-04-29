@@ -57,7 +57,7 @@ OBSERVAÇÃO:
 
 ### O Local e Data
 
-O evento ja possui um local pré-definido e data definida, a princípio será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
+O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
 
 <!--
 ## Organizações de apoio
