@@ -11,6 +11,8 @@ Nosso objetivo principal com a realização deste evento é proporcionar aos par
 Sabemos que o evento receberá profissionais que estão iniciando e outros que já tem grandes história no mercado, enfim, queremos reunir e fazer essa troca de experiências entre eles. 
 
 
-OBSERVAÇÃO: É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de um futuros eventos.
+OBSERVAÇÃO: 
+
+É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de um futuros eventos.
 
 ##
