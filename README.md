@@ -47,11 +47,11 @@ OBSERVAÇÃO:
 
 * <b>Outros</b> - Ainda entrarão mais 4
 
-## Site Oficial
+### Site Oficial
 
 * [Acompanhe nossa contagem regressiva para o site oficial e o início das inscrições](http://frontendcarioca.com.br/)
 
-## Sugira Palestras
+### Sugira Palestras
 
 * [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014)
 
