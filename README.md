@@ -38,14 +38,14 @@ OBSERVAÇÃO:
 
 * <b>Guga Alves</b> - Coordenador de Projetos Digitais na empresa Agência Trii
 
-* Jean Carlo (Suissa) - Owner/ President na empresa Suissa Corp
+* <b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp
  
-* Davidson Fellipe - Front End Engineer na empresa Globo.com
+* <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
 
-* Felipe Leão - Full Stack Web Developer na empresa Igreja do Recreio
+* <b>Felipe Leão</b> - Full Stack Web Developer na empresa Igreja do Recreio
 
-* Pedro Polisenso - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
+* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
 
-* Tarcisio Silva - Gerente de Projetos Prefeitura do Rio de Janeiro
+* <b>Tarcisio Silva</b> - Gerente de Projetos Prefeitura do Rio de Janeiro
 
-* João Felipe - Analista de sistemas na empresa Petrobras
+* <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
