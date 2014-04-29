@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>:: Fron End Carioca ::</title>
+<link rel="shortcut icon" href="img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<script type="text/javascript" src="js/versao-1.7.1.js"></script>
+<script type="text/javascript">
+	function atualizaContador(YYYY,MM,DD,HH,MI,saida){
+		var SS = 00; //Segundos
+		var hoje = new Date(); //Dia
+		var futuro = new Date(YYYY,MM-1,DD,HH,MI,SS); //Data limite do contador
+		 
+		var ss = parseInt((futuro - hoje) / 1000); //Determina a quantidade total de segundos que faltam
+		var mm = parseInt(ss / 60); //Determina a quantidade total de minutos que faltam
+		var hh = parseInt(mm / 60); //Determina a quantidade total de horas que faltam
+		var dd = parseInt(hh / 24); //Determina a quantidade total de dias que faltam
+		 
+		ss = ss - (mm * 60); //Determina a quantidade de segundos
+		mm = mm - (hh * 60); //Determina a quantidade de minutos
+		hh = hh - (dd * 24); //Determina a quantidade de horas
+		 
+		//O bloco abaixo descreve monta o que vai ser escrito na tela
+		var faltam = '';
+		faltam += (dd && dd > 1) ? dd+' Dias e ' : (dd==1 ? '1 Dia, ' : '') ;
+		faltam += (toString(hh).length) ? hh+':' : '';
+		faltam += (toString(mm).length) ? mm+':' : '';
+		faltam += ss;
+		 
+		if (dd+hh+mm+ss > 0) {	
+			$(saida).html(faltam);//INsere o conteudo da variável faltam na página.
+			setTimeout(function(){atualizaContador(YYYY,MM,DD,HH,MI,saida)},1000);//Reinicia a função a cada um segundo
+		} else {
+			$(saida).html('');
+			setTimeout(function(){atualizaContador(YYYY,MM,DD,HH,MI,saida)},1000);
+		}
+	}
+	atualizaContador(2014,05,15, 13,00,'#contador')
+</script>
+</head>
+<body>
+	<section id="HoldPrincipal">
+		<div id="logotipo">
+			<a href="#">Logotipo</a>
+		</div>
+		<h1>27 de Setembro</h1>
+		<h2>UniCarioca - Rio de Janeiro</h2>
+		<h3>Contagem regressiva para o site entrar no ar.</h3>
+		<div id="contador"></div>
+	</section><!-- HoldPrincipal Fim -->
+</body>
+</html>

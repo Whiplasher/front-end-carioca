@@ -1,0 +1,93 @@
+/******** INÍCIO DO STYLE *******/
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	background-image: url(../img/background.jpg);
+	no-repeat center top fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	overflow-x:hidden;
+	width: 100%;
+}
+
+h1{
+	font-family: 'coolvetica_rgregular';
+	color: #fff;
+	font-weight: normal !important;
+	letter-spacing: 2px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 55px;
+}
+
+h2{
+	font-family: 'coolvetica_rgregular';
+	color: #fff;
+	font-weight: normal !important;
+	letter-spacing: 2px;
+	margin-top: 0px;
+	text-align: center;
+	font-size: 40px;
+}
+h3{
+	font-family: 'coolvetica_rgregular';
+	color: #fff;
+	font-weight: normal !important;
+	letter-spacing: 2px;
+	text-align: center;
+	font-size: 35px;
+	
+	border: 1px solid #fff;
+	padding: 8px;
+	width: 60%;
+	margin: 55px auto 15px auto;
+	border-radius: 5px;
+}
+
+@font-face {
+    font-family: 'coolvetica_rgregular';
+    src: url('../fonte/coolvetica_rg.eot');
+    src: url('../fonte/coolvetica_rg.eot?#iefix') format('embedded-opentype'),
+         url('../fonte/coolvetica_rg.woff') format('woff'),
+         url('../fonte/coolvetica_rg.ttf') format('truetype'),
+         url('../fonte/coolvetica_rg.svg#coolvetica_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+#HoldPrincipal{
+	width: 100%;
+	margin: auto;
+	padding-top: 80px;
+}
+
+.content{
+	background-color: #000;
+	padding: 10px;
+	width: 800px;
+	margin: auto; 
+}
+
+#logotipo a{
+	background-image: url(../img/logotipo.png);
+	width: 375px;
+	height: 125px;
+	text-indent: -9999px;
+	display: block;
+	margin: auto;
+}
+
+#contador{
+	font-family: 'coolvetica_rgregular';
+	color:#204360;
+	font-size:130px;
+	text-align: center;
+	letter-spacing: 5px;
+}
