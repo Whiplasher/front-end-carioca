@@ -32,4 +32,20 @@ OBSERVAÇÃO:
 * Oportunidades de Emprego
 
 * Outros
+
+
+## Os Palestrantes
+
+* Guga Alves - Coordenador de Projetos Digitais na empresa Agência Trii
+
+* Jean Carlo (Suissa) - Owner/ President na empresa Suissa Corp
  
+* Davidson Fellipe - Front End Engineer na empresa Globo.com
+
+* Felipe Leão - Full Stack Web Developer na empresa Igreja do Recreio
+
+* Pedro Polisenso - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
+
+* Tarcisio Silva - Gerente de Projetos Prefeitura do Rio de Janeiro
+
+* João Felipe - Analista de sistemas na empresa Petrobras
