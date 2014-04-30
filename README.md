@@ -13,7 +13,7 @@ Sabemos que o evento receberá profissionais que estão iniciando e outros que j
 
 OBSERVAÇÃO: 
 
-É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de um futuros eventos.
+É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de futuros eventos.
 
 ### O que vai rolar?
 
@@ -30,22 +30,23 @@ OBSERVAÇÃO:
 ## Os Palestrantes
 
 * <b>Guga Alves</b> - Coordenador de Projetos Agência Trii e Instrutor do Instituto Infnet
-
 * <b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp
- 
 * <b>Felipe Leão</b> - Full Stack Web Developer na empresa Igreja do Recreio
-
 * <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
-
 * <b>Tarcisio Silva</b> - Gerente de Projetos Prefeitura do Rio de Janeiro
-
 * <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
-
 * <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
-
 * <b>Davison Martins</b> - Web Developer e Instrutor do Curso iLearn
-
 * <b>Outros</b> - Ainda entrarão mais 4
+
+## Apoio e Patrocínio
+
+* Faculdade Unicarioca
+* Local Web
+* Curso iLearn
+* NOVATEC
+* School of Net
+* 
 
 ### Site Oficial
 
@@ -58,6 +59,7 @@ OBSERVAÇÃO:
 ### O Local e Data
 
 O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
+
 
 <!--
 ## Organizações de apoio
