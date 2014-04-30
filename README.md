@@ -58,9 +58,7 @@ OBSERVAÇÃO:
 ### O Local e Data
 
 O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
-
-#### Créditos
-Front End Carioca © 2014	
+	
 <!--
 ## Organizações de apoio
 
