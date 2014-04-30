@@ -24,7 +24,6 @@ OBSERVAÇÃO:
 * Sorteio de Livros
 * Sorteio de Cursos
 * Oportunidades de Emprego
-* Outros
 
 
 ## Os Palestrantes
@@ -37,7 +36,6 @@ OBSERVAÇÃO:
 * <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
 * <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
 * <b>Davison Martins</b> - Web Developer e Instrutor do Curso iLearn
-* <b>Outros</b> - Ainda entrarão mais 4
 
 ## Apoio e Patrocínio
 
@@ -58,7 +56,7 @@ OBSERVAÇÃO:
 ### O Local e Data
 
 O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffe Break pela manhã.
-	
+
 <!--
 ## Organizações de apoio
 
