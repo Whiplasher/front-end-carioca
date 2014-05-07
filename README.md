@@ -43,7 +43,7 @@ OBSERVAÇÃO:
 	* Turbinando seu workflow para o desenvolvimento de webapps
 
 * <b>Tarcisio Silva</b> - Analista de Sistemas na Secretaria Municipal de Saúde
-	* 
+	* Front e Back End andam de mãos dadas?
 
 * <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
 	* NodeJS para iniciantes. Conhecendo, iniciando e criando pequenas aplicações com JS
