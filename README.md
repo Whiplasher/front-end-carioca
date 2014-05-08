@@ -8,10 +8,10 @@ O Front End Carioca está realizando sua primeira edição, e está vindo com mu
 
 Nosso objetivo principal com a realização deste evento é proporcionar aos participantes, desde o iniciante até o mais experiênte, novos aprendizados, conhecimentos específicos, novidades de ferramentas e tecnologias web que vem avançando com o passar do tempo.
 
-Sabemos que o evento receberá profissionais que estão iniciando e outros que já tem grandes história no mercado, enfim, queremos reunir e fazer essa troca de experiências entre eles. 
+Sabemos que o evento receberá profissionais que estão iniciando e outros que já tem grandes história no mercado, enfim, queremos reunir e fazer essa troca de experiências entre eles.
 
 
-OBSERVAÇÃO: 
+OBSERVAÇÃO:
 
 É importante ressaltar que os encontros realizados por nossa organização, serão sempre divulgados em nosso Site, FanPage e Repositório Git. Estamos abertos para sugestões que desejam aplicar para a elaboração e criação de futuros eventos.
 
@@ -37,7 +37,7 @@ OBSERVAÇÃO:
 	* Implementando seu Front End no WordPress
 
 * <b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp
-	* Iniciando e aprendenfo Atomic Design
+	* Iniciando e aprendendo Atomic Design
 
 * <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
 	* Turbinando seu workflow para o desenvolvimento de webapps
@@ -45,20 +45,20 @@ OBSERVAÇÃO:
 * <b>Tarcisio Silva</b> - Analista de Sistemas na Secretaria Municipal de Saúde
 	* Front e Back End andam de mãos dadas?
 
-* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro 
+* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro
 	* NodeJS para iniciantes. Conhecendo, iniciando e criando pequenas aplicações com JS
 
 * <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
 	* Desenvolvimento de App com PhoneGap/Cordova
 
 * <b>Davidson Alencar</b> - Instrutor, Programador e Conteudista na empresa iLearn Educação
-	* O poder de um Front End com HTML5 e seus recursos 
+	* O poder de um Front End com HTML5 e seus recursos
 
 * <b>Demetrius Nunes</b> - Apprentice na empresa Izzui App
 	* AngularJS: teoria e prática
 
 * <b>Gabriel Gularte</b> - Web Developer na empresa MAC Innovation Technologies
-	* RESTful APIs: Conceitos e aplicações 
+	* RESTful APIs: Conceitos e aplicações
 
 * <b>Victor Jose Silva Pinto</b> - Web Desenvolvedor na empresa Mobicare
 	* AngularJS OO and design patterns
