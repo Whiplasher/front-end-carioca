@@ -19,6 +19,12 @@
 		ss = ss - (mm * 60); //Determina a quantidade de segundos
 		mm = mm - (hh * 60); //Determina a quantidade de minutos
 		hh = hh - (dd * 24); //Determina a quantidade de horas
+
+		if (ss < 10)
+			ss = '0' + ss;
+
+		if (mm < 10)
+			mm = '0' + mm;
 		 
 		//O bloco abaixo descreve monta o que vai ser escrito na tela
 		var faltam = '';
@@ -27,7 +33,7 @@
 		faltam += (toString(mm).length) ? mm+':' : '';
 		faltam += ss;
 		 
-		if (dd+hh+mm+ss > 0) {	
+		if (dd+hh+mm+ss > 0) {
 			$(saida).html(faltam);//INsere o conteudo da variável faltam na página.
 			setTimeout(function(){atualizaContador(YYYY,MM,DD,HH,MI,saida)},1000);//Reinicia a função a cada um segundo
 		} else {
