@@ -68,7 +68,7 @@ OBSERVAÇÃO:
 ![IE](https://raw.github.com/alrra/browser-logos/master/internet-explorer/internet-explorer_48x48.png) | ![Chrome](https://raw.github.com/alrra/browser-logos/master/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/firefox/firefox_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/opera/opera_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/safari/safari_48x48.png)
 <table>
 	<tr>
-		<td>![IE](https://raw.github.com/alrra/browser-logos/master/internet-explorer/internet-explorer_48x48.png)</td>
+		<td><img src="https://raw.github.com/alrra/browser-logos/master/internet-explorer/internet-explorer_48x48.png"></td>
 	</tr>
 	<tr>
 		<td>[![Caelum](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png)](https://www.caelum.com.br/)</td>
