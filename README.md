@@ -71,7 +71,7 @@ OBSERVAÇÃO:
 		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/polisenso.png"></td>
 		<td>
 			<b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro<br>
-			<b>Assunto:</b> Desenvolvedor Front End focado em criação de sistemas com aplicações web
+			<b>Assunto:</b> Desenvolvimento Front End focado em criação de sistemas com aplicações web
 		</td>
 	</tr>
 	<tr>
