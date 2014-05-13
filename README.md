@@ -144,6 +144,16 @@ O evento já possui um local pré-definido e data definida, será dia 27 de sete
 
 ## Organizações Parceiras
 
-* [Organização - Rio.js](http://riojs.org/)
-* [Organização - Sampa.js](http://www.sampajs.com.br/)
-* [Organização - Brazil.JS](http://braziljs.org/eventos/)
+<table>
+	<tr>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/apoio/braziljs.jpg">
+		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/apoio/riojs.jpg">
+		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/apoio/sampajs.jpg">
+		</td>
+	</tr>
+</table>
