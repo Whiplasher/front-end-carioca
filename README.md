@@ -66,6 +66,10 @@ OBSERVAÇÃO:
 
 ## Apoio e Patrocínio
 
+[![Editora Novatec](http://frontendcarioca.com.br/src/novatec.png)](http://novatec.com.br/)
+
+[![Caelum](http://frontendcarioca.com.br/src/caelum.png)](https://www.caelum.com.br/)
+
 * Em breve os principais patrocinadores
 
 ### Site Oficial
