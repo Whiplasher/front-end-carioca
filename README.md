@@ -34,8 +34,8 @@ OBSERVAÇÃO:
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/guga.png"></td>
 		<td>
-			### **Guga Alves** - Fundador da Agência Wattz e Instrutor do Instituto Infnet<br>
-			<b>Assunto:</b>Aplique técnincas de otimização em seus códigos
+			<b>Guga Alves</b> - Fundador da Agência Wattz e Instrutor do Instituto Infnet<br>
+			<b>Assunto:</b> Aplique técnincas de otimização em seus códigos
 		</td>
 	</tr>
 </table>
