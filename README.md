@@ -69,11 +69,9 @@ OBSERVAÇÃO:
 <table>
 	<tr>
 		<td>
-			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png">&nbsp;
-			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png">
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png">
 		</td>
 		<td>
-			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png">&nbsp;
 			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png">
 		</td>
 	</tr>
