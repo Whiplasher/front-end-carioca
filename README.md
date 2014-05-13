@@ -66,10 +66,14 @@ OBSERVAÇÃO:
 
 ## Apoio e Patrocínio
 
-![Editora Novatec](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png) | ![Caelum](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png) --- | --- | --- | --- | --- |
-IE 9+ ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
-
-![Editora Novatec](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png)] | ![Caelum](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png)](https://www.caelum.com.br/) --- | --- |
+<table>
+	<tr>
+		<td>[![Editora Novatec](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png)](http://novatec.com.br/)</td>
+	</tr>
+	<tr>
+		<td>[![Caelum](https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/caelum.png)](https://www.caelum.com.br/)</td>
+	</tr>
+</table>
 
 ### Site Oficial
 
