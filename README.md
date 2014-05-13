@@ -95,7 +95,7 @@ OBSERVAÇÃO:
 		</td>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/guga.png"></td>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/gabriel.png"></td>
 		<td>
 			<b>Gabriel Gularte</b> - Web Developer na empresa MAC Innovation Technologies<br>
 			<b>Assunto:</b> RESTful APIs: Conceitos e aplicações
