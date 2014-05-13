@@ -22,6 +22,7 @@ OBSERVAÇÃO:
 * Coffee Break
 * Ciclo de palestras
 * Mini Cursos
+* Brindes
 * Entrevistas / Depoimentos
 * Sorteio de Livros
 * Sorteio de Cursos
@@ -133,14 +134,9 @@ OBSERVAÇÃO:
 
 * [Acompanhe nossa contagem regressiva para o site oficial e o início das inscrições](http://frontendcarioca.com.br/)
 
-### Sugira Palestras
-
-* [Sugira um determinado assunto e fale sobre ele](http://call4paperz.com/events/front-end-carioca-2014)
-
 ### O Local e Data
 
-O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffee Break pela manhã. (Sujeita a alterações)
-
+O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffee. (Sujeita a alterações)
 
 ## Organizações Parceiras
 
