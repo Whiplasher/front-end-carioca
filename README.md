@@ -38,37 +38,79 @@ OBSERVAÇÃO:
 			<b>Assunto:</b> Aplique técnincas de otimização em seus códigos
 		</td>
 	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/valerio.png"></td>
+		<td>
+			<b>Valério Souza</b> - WP Developer e tradutor do Core do WordPress, Organizador do WordCamp BH e Developer da Agência Trii<br>
+			<b>Assunto:</b> Implementando seu Front End no WordPress
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/jean.png"></td>
+		<td>
+			<b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp<br>
+			<b>Assunto:</b> Iniciando e aprendendo Atomic Design
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/davidson.png"></td>
+		<td>
+			<b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com<br>
+			<b>Assunto:</b> Turbinando seu workflow para o desenvolvimento de webapps
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/tarcisio.png"></td>
+		<td>
+			<b>Tarcisio Silva</b> - Analista de Sistemas na Secretaria Municipal de Saúde<br>
+			<b>Assunto:</b> Front e Back End andam de mãos dadas?
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/polisenso.png"></td>
+		<td>
+			<b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro<br>
+			<b>Assunto:</b> Desenvolvedor Front End focado em criação de sistemas com aplicações web
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/joao_felipe.png"></td>
+		<td>
+			<b>João Felipe</b> - Analista de sistemas na empresa Petrobras<br>
+			<b>Assunto:</b> Desenvolvimento de App com PhoneGap/Cordova
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/davidson_alencar.png"></td>
+		<td>
+			<b>Davidson Alencar</b> - Instrutor, Programador e Conteudista na empresa iLearn Educação<br>
+			<b>Assunto:</b> O poder do HTML5 e seus recursos
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/dimithius.png"></td>
+		<td>
+			<b>Demetrius Nunes</b> - Apprentice na empresa Izzui App<br>
+			<b>Assunto:</b> AngularJS: teoria e prática
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/guga.png"></td>
+		<td>
+			<b>Gabriel Gularte</b> - Web Developer na empresa MAC Innovation Technologies<br>
+			<b>Assunto:</b> RESTful APIs: Conceitos e aplicações
+		</td>
+	</tr>
+	<!--
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/guga.png"></td>
+		<td>
+			<b>Victor Jose Silva Pinto</b> - Web Desenvolvedor na empresa Mobicare<br>
+			<b>Assunto:</b> AngularJS OO and design patterns
+		</td>
+	</tr>
+	-->
 </table>
-
-* <b>Valério Souza</b> -  WP Developer e tradutor do Core do WordPress, Organizador do WordCamp BH e Developer da Agência Trii
-	* Implementando seu Front End no WordPress
-
-* <b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp
-	* Iniciando e aprendendo Atomic Design
-
-* <b>Davidson Fellipe</b> - Front End Engineer na empresa Globo.com
-	* Turbinando seu workflow para o desenvolvimento de webapps
-
-* <b>Tarcisio Silva</b> - Analista de Sistemas na Secretaria Municipal de Saúde
-	* Front e Back End andam de mãos dadas?
-
-* <b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro
-	* Desenvolvedor Front End focado em criação de sistemas com aplicações web.
-
-* <b>João Felipe</b> - Analista de sistemas na empresa Petrobras
-	* Desenvolvimento de App com PhoneGap/Cordova
-
-* <b>Davidson Alencar</b> - Instrutor, Programador e Conteudista na empresa iLearn Educação
-	* O poder de um Front End com HTML5 e seus recursos
-
-* <b>Demetrius Nunes</b> - Apprentice na empresa Izzui App
-	* AngularJS: teoria e prática
-
-* <b>Gabriel Gularte</b> - Web Developer na empresa MAC Innovation Technologies
-	* RESTful APIs: Conceitos e aplicações
-
-* <b>Victor Jose Silva Pinto</b> - Web Desenvolvedor na empresa Mobicare
-	* AngularJS OO and design patterns
 
 
 ## Apoio e Patrocínio
