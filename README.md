@@ -66,9 +66,9 @@ OBSERVAÇÃO:
 
 ## Apoio e Patrocínio
 
-[![Editora Novatec](http://frontendcarioca.com.br/src/novatec.png)](http://novatec.com.br/)
+[![Editora Novatec](https://github.com/pedropolisenso/front-end-carioca/tree/master/src/novatec.png)](http://novatec.com.br/)
 
-[![Caelum](http://frontendcarioca.com.br/src/caelum.png)](https://www.caelum.com.br/)
+[![Caelum](https://github.com/pedropolisenso/front-end-carioca/tree/master/src/caelum.png)](https://www.caelum.com.br/)
 
 ### Site Oficial
 
