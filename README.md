@@ -70,8 +70,6 @@ OBSERVAÇÃO:
 
 [![Caelum](http://frontendcarioca.com.br/src/caelum.png)](https://www.caelum.com.br/)
 
-* Em breve os principais patrocinadores
-
 ### Site Oficial
 
 * [Acompanhe nossa contagem regressiva para o site oficial e o início das inscrições](http://frontendcarioca.com.br/)
