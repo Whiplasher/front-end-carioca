@@ -74,6 +74,9 @@ OBSERVAÇÃO:
 		<td>
 			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/novatec.png">
 		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/ilearn.png">
+		</td>
 	</tr>
 </table>
 
