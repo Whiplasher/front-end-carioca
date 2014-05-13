@@ -30,8 +30,15 @@ OBSERVAÇÃO:
 
 ## Os Palestrantes
 
-* <b>Guga Alves</b> - Coordenador de Projetos Agência Trii e Instrutor do Instituto Infnet
-	* Aplique técnincas de otimização em seus códigos
+<table>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/guga.png"></td>
+		<td>
+			<b>Guga Alves</b> - Fundador da Agência Wattz e Instrutor do Instituto Infnet
+			* Aplique técnincas de otimização em seus códigos
+		</td>
+	</tr>
+</table>
 
 * <b>Valério Souza</b> -  WP Developer e tradutor do Core do WordPress, Organizador do WordCamp BH e Developer da Agência Trii
 	* Implementando seu Front End no WordPress
