@@ -58,7 +58,9 @@
 
 			if (mm < 10)
 				mm = '0' + mm;
-			 
+			
+			if (hh < 10)
+				hh = '0' + hh;
 			//O bloco abaixo descreve monta o que vai ser escrito na tela
 			var faltam = '';
 			faltam += (dd && dd > 1) ? dd+' Dias e ' : (dd==1 ? '1 Dia, ' : '') ;
