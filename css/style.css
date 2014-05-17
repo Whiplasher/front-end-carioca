@@ -1,56 +1,7 @@
 /******** INÍCIO DO STYLE *******/
 
-*{
-	margin: 0;
-	padding: 0;
-	border: 0;
-}
-
-body{
-	background-image: url(../img/background.jpg);
-	no-repeat center top fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	overflow-x:hidden;
-	width: 100%;
-	height: 100%;
-}
-
-h1{
-	font-family: 'coolvetica_rgregular';
-	color: #fff;
-	font-weight: normal !important;
-	letter-spacing: 2px;
-	margin-top: 30px;
-	text-align: center;
-	font-size: 55px;
-}
-
-h2{
-	font-family: 'coolvetica_rgregular';
-	color: #fff;
-	font-weight: normal !important;
-	letter-spacing: 2px;
-	margin-top: 0px;
-	text-align: center;
-	font-size: 40px;
-}
-h3{
-	font-family: 'coolvetica_rgregular';
-	color: #fff;
-	font-weight: normal !important;
-	letter-spacing: 2px;
-	text-align: center;
-	font-size: 35px;
-	
-	border: 1px solid #fff;
-	padding: 8px;
-	width: 60%;
-	margin: 55px auto 15px auto;
-	border-radius: 5px;
-}
+*{ margin: 0;padding: 0;border: 0;}
+html, body{ height: 100%;}
 
 @font-face {
     font-family: 'coolvetica_rgregular';
@@ -63,53 +14,30 @@ h3{
     font-style: normal;
 
 }
-#HoldPrincipal{
-	width: 100%;
-	margin: auto;
-	padding-top: 80px;
-}
+.bg-page{background: url(../img/background.jpg) no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;overflow-y:hidden;width: 100%;height: 100%;min-height: 600px !important;}
 
-.content{
-	background-color: #000;
-	padding: 10px;
-	width: 800px;
-	margin: auto; 
-}
+h1{font-family: 'coolvetica_rgregular';color: #fff;font-weight: normal !important;letter-spacing: 2px;text-align: center;font-size: 55px;}
+h2{font-family: 'coolvetica_rgregular';color: #fff;font-weight: normal !important;letter-spacing: 2px;margin-top: 0px;text-align: center;font-size: 40px;}
+h2:nth-child(2){ margin-top: 30px;font-size: 55px;}
+h3{font-family: 'coolvetica_rgregular';color: #fff;font-weight: normal !important;letter-spacing: 2px;text-align: center;font-size: 35px;border: 1px solid #fff;padding: 8px;width: 70%;margin: 55px auto 15px auto;border-radius: 5px;}
 
-#logotipo a{
-	background-image: url(../img/logotipo.png);
-	width: 375px;
-	height: 125px;
-	text-indent: -9999px;
-	display: block;
-	margin: auto;
-}
+.custom-section{ margin-top: 55px;}
 
-#contador{
-	font-family: 'coolvetica_rgregular';
-	color:#204360;
-	font-size:130px;
-	text-align: center;
-	letter-spacing: 5px;
+#logotipo{width: 100%;margin: 0 auto;z-index: 2;}
+#logotipo img {width: 375px;height: 125px;margin: 0 auto;}
+#contador{font-family: 'coolvetica_rgregular';color:#204360;font-size:9.3vw;text-align: center;letter-spacing: 5px;}
+#fork-me a{background-image: url(../img/fork-me.png);width: 170px;height: 170px;text-indent: -9999px;display: block;position: absolute;right: 0;z-index: 1;}
+.clear-both { clear: both;}
+
+footer{background-color: #000;padding: 10px;width: 100%;text-align: center;opacity: 0.7; font-family: Arial;color: #fff;font-weight: normal;font-size: 17px;bottom:0;}
+
+@media only screen and (max-width: 480px){
+	#logotipo img { width: 100%; height: auto; margin: 0 auto;}
+	#contador{text-shadow: 1px 1px 1px #030303;}
+	h3{text-shadow: 1px 1px 1px #030303;}
 }
-#fork-me a{
-	background-image: url(../img/fork-me.png);
-	width: 170px;
-	height: 170px;
-	text-indent: -9999px;
-	display: block;
-	float: right;
-}
-footer{
-	background-color: #000;
-	padding: 10px;
-	width: 100%;
-	text-align: center;
-	opacity: 0.7; 
-	font-family: Arial;
-	color: #fff;
-	font-weight: normal;
-	font-size: 17px;
-	position:absolute;
-	bottom:0;
+@media only screen and (max-width: 500px){
+	
+	#contador{ font-size: 50px;}
+	h3 { font-size: 28px; width: 100%; margin: 20px auto 10px auto;}
 }
