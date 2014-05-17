@@ -50,7 +50,7 @@ OBSERVAÇÃO:
 		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/jean.png"></td>
 		<td>
 			<b>Jean Carlo (Suissa)</b> - Owner/ President na empresa Suissa Corp<br>
-			<b>Assunto:</b> Iniciando e aprendendo Atomic Design
+			<b>Assunto:</b> Atomic Design com pré-processadores
 		</td>
 	</tr>
 	<tr>
