@@ -61,13 +61,6 @@ OBSERVAÇÃO:
 		</td>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/tarcisio.png"></td>
-		<td>
-			<b>Tarcisio Silva</b> - Analista de Sistemas na Secretaria Municipal de Saúde<br>
-			<b>Assunto:</b> Front e Back End andam de mãos dadas?
-		</td>
-	</tr>
-	<tr>
 		<td><img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/palestrantes/polisenso.png"></td>
 		<td>
 			<b>Pedro Polisenso</b> - Full Stack Web Developer na Prefeitura do Rio de Janeiro<br>
@@ -127,6 +120,12 @@ OBSERVAÇÃO:
 		<td>
 			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/ilearn.png">
 		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/treina-web.png">
+		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/pedropolisenso/front-end-carioca/master/src/wide.png">
+		</td>
 	</tr>
 </table>
 
@@ -136,7 +135,7 @@ OBSERVAÇÃO:
 
 ### O Local e Data
 
-O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado, na Faculdade UniCarioca das 08:00 às 18:00 com parada para almoço e Coffee. (Sujeita a alterações)
+O evento já possui um local pré-definido e data definida, será dia 27 de setembro, sábado das 08:00 às 18:00 com parada para almoço e Coffee. (Sujeita a alterações)
 
 ## Organizações Parceiras
 
